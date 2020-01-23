@@ -1,2 +1,3 @@
-# smote_variants
-A collection of 85 minority oversampling techniques
+# SMOTE-variants
+
+The repository of the package has been moved to http://github.com/analyticalmindsltd/smote_variants
